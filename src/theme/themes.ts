@@ -33,11 +33,11 @@ export const dark: SaleorThemeColors = {
   },
 
   active: {
-    1: "#3EA3FF",
-    2: "#388AD6",
-    3: "#3371AD",
-    4: "#2D5783",
-    5: "#283E5A",
+    1: "#5e18e8",
+    2: "#8444f4", 
+    3: "#b58ff8",
+    4: "#ceb4fb",
+    5: "#e6dafd",
   },
   main: {
     1: "#FAFAFA",

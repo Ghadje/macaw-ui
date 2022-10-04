@@ -121,11 +121,11 @@ export const light: SaleorThemeColors = {
   },
 
   active: {
-    1: "#056DFF",
-    2: "#378AFF",
-    3: "#68A7FF",
-    4: "#C1DBFF",
-    5: "#E6F0FF",
+    1: "#5e18e8",
+    2: "#8444f4", 
+    3: "#b58ff8",
+    4: "#ceb4fb",
+    5: "#e6dafd",
   },
   main: {
     1: "#28234A",
@@ -176,8 +176,7 @@ export const light: SaleorThemeColors = {
   paperBorder: "#EAEAEA",
   theme: "light",
 };
-
-export const purple: SaleorThemeColors = {
+export const lightBackup: SaleorThemeColors = {
   alert: {
     paper: {
       error: "#FFD6D9",
